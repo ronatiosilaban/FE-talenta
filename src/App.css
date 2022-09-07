@@ -1,0 +1,41 @@
+.App {
+  background-image: url("https://drive.google.com/file/d/1oSdUYlKvFJWzVWyK5N-rvdR54_aq-nHp/view?usp=sharing")
+}
+
+.App-logo {
+  height: 30vmin;
+  pointer-events: none;
+  opacity: 0.8;
+}
+
+.add {
+  display: flex;
+
+  flex-wrap: wrap;
+  margin-bottom: 50px;
+}
+
+.add h4 {
+  font-size: 30px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.add button {
+  margin-left: 68%;
+  padding-left: 30px;
+  padding-right: 30px;
+}
+
+
+
+.App-link {
+  color: #61dafb;
+}
+
+.img {
+  width: 20px;
+}
+
+.charts {
+  padding-bottom: 50px;
+}
